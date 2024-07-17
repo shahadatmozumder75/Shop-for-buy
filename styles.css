@@ -299,6 +299,9 @@ p.footer-desc {
         margin-top: 20px;
         text-align: center;
     }
+    .footer{
+        background-color: black;
+        color: white;
 }
 
 
