@@ -268,7 +268,7 @@ p.footer-desc {
         justify-content: space-between;
         align-items: center;
         justify-items:center;
-        gap: 25px;
+        gap: 24px;
         max-width: 90%;
         margin: 0 auto;
     }
@@ -300,3 +300,6 @@ p.footer-desc {
         text-align: center;
     }
 }
+
+
+
